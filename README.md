@@ -10,6 +10,7 @@
 
 # Supplies
 
+- 3dp brass inserts https://fr.aliexpress.com/item/1005005776999972.html (M2 x 5mm)
 - Gasket 3mm https://fr.aliexpress.com/item/1005005563572310.html (80x4x3MM)
 - Screws M2x6mm https://fr.aliexpress.com/item/1005006211548561.html
 - TRRS cable https://fr.aliexpress.com/item/1005006954874186.html
