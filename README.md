@@ -23,4 +23,4 @@
 
 # Firmware
 
-My firmware supporting latest BlackPill is here: https://github.com/H3lli0n/vial-qmk/releases/tag/cantor_v1.1
+My firmware supporting latest BlackPill is here: [Cantor 1.2 firmware VIAL](https://github.com/H3lli0n/vial-qmk/releases/tag/cantor_v1.2)
