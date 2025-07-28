@@ -1,6 +1,8 @@
 # CantorMx-3DP-case
 3DP case for CantorMx split keyboard in 36% and 42% layouts
 
+![CantorCase1](img/OCL_CantorMx-20.jpg)
+![CantorCase1](img/OCL_CantorMx-21.jpg)
 ![CantorCase1](img/OCL_CantorMx-19.jpg)
 ![CantorCase2](img/OCL_CantorMx-15.jpg)
 ![CantorCase3](img/OCL_CantorMx-12.jpg)
